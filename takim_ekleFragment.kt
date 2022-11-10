@@ -1,3 +1,9 @@
+//
+//
+//
+// THİS PAGE FOR GİTHUB , NOT PROJECT PAGE OR FİLE -> project -> futboltakimlarim.zip
+//
+//
 package com.gunesekrem.denemeapp
 
 import android.Manifest
