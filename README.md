@@ -1,4 +1,4 @@
-# Kotlin-Basics
+# Kotlin-TakimplarimApp
 
 en-> projects is generally a zip file :)
 
